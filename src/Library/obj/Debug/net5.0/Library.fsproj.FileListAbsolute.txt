@@ -1,0 +1,10 @@
+C:\neon\spike\f--fundamentals\src\Library\bin\Debug\net5.0\Library.deps.json
+C:\neon\spike\f--fundamentals\src\Library\bin\Debug\net5.0\Library.dll
+C:\neon\spike\f--fundamentals\src\Library\bin\Debug\net5.0\Library.pdb
+C:\neon\spike\f--fundamentals\src\Library\bin\Debug\net5.0\Library.xml
+C:\neon\spike\f--fundamentals\src\Library\obj\Debug\net5.0\Library.fsproj.AssemblyReference.cache
+C:\neon\spike\f--fundamentals\src\Library\obj\Debug\net5.0\Library.AssemblyInfoInputs.cache
+C:\neon\spike\f--fundamentals\src\Library\obj\Debug\net5.0\Library.AssemblyInfo.fs
+C:\neon\spike\f--fundamentals\src\Library\obj\Debug\net5.0\Library.dll
+C:\neon\spike\f--fundamentals\src\Library\obj\Debug\net5.0\Library.xml
+C:\neon\spike\f--fundamentals\src\Library\obj\Debug\net5.0\Library.pdb
