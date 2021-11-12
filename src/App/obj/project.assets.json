@@ -51,6 +51,19 @@
             "locale": "zh-Hant"
           }
         }
+      },
+      "Library/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "FSharp.Core": "5.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Library.dll": {}
+        }
       }
     }
   },
@@ -81,11 +94,17 @@
         "lib/netstandard2.0/zh-Hans/FSharp.Core.resources.dll",
         "lib/netstandard2.0/zh-Hant/FSharp.Core.resources.dll"
       ]
+    },
+    "Library/1.0.0": {
+      "type": "project",
+      "path": "../Library/Library.fsproj",
+      "msbuildProject": "../Library/Library.fsproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "FSharp.Core >= 5.0.0"
+      "FSharp.Core >= 5.0.0",
+      "Library >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -120,7 +139,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\neon\\spike\\f--fundamentals\\src\\Library\\Library.fsproj": {
+              "projectPath": "C:\\neon\\spike\\f--fundamentals\\src\\Library\\Library.fsproj"
+            }
+          }
         }
       }
     },
