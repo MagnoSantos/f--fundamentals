@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6DPdik5xzH/Az3V1ANl0OqZVPgSYbNGZV5EV3WqFECen5sJ/WGBpvwYfP1h1Lp8Aw0BxvXVrphFhTEi9xfHnBA==",
+  "success": true,
+  "projectFilePath": "C:\\neon\\spike\\f--fundamentals\\src\\App\\App.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\u002116\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
